@@ -20,7 +20,3 @@ This repository contains the completed assignments for Day 6 of the Lede Program
 
 ### Other Files
 - `.gitignore`, metadata files, and other standard files for managing the repository.
-
-## Notes
-- These assignments were part of the Lede Program's Day 6 curriculum.
-- All code was written as part of classroom instruction and independent exercises.
